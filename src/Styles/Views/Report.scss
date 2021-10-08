@@ -1,0 +1,33 @@
+
+@import '../Utilities.scss';
+
+
+.logo{
+    width: 250px;
+}
+
+.text-table{
+    font-size: 0.8rem;
+}
+
+
+.container{
+
+    .table_report{
+        background-color: rgba(235, 235, 235, 0.742);
+        
+    }
+
+
+
+    .separator{
+        width: 60%;
+        height: 5px;
+        background-color: black;
+        background-color: rgb(6, 6, 74);
+        margin-bottom: 20px;
+    }
+
+}
+
+

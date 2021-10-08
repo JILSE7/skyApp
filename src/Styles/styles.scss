@@ -1,0 +1,30 @@
+//Views
+@import './Views/Main.scss';
+@import './Views/Report.scss';
+
+
+@import './Utilities.scss';
+@import url("https://fonts.googleapis.com/css2?family=Faster+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap");
+
+
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: bold;
+}
+
+.container{
+    min-height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: start ;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+
